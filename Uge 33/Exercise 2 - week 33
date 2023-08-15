@@ -1,0 +1,24 @@
+<!--Exercise 2-->
+
+<h1>Exercise 2: Image Searching Website</h1>
+<div style="width:500; float:left">
+<hr style="width:135%">
+<form action="/action_page.php">
+  <label for="Image name">Search your Image here:</label>
+  <input value="Shrek">
+  <button type="button" Style=border-radius:0>Search</button><br>
+<img width=350px src="https://www.thefactsite.com/wp-content/uploads/2012/05/shrek-facts.webp">
+  </img><br>
+
+<a href="https://www.wallpaperflare.com/search?wallpaper=shrek">For more click here</a>
+<hr style="width:135%">
+<form action="/action_page.php">
+  Feedback Form: <br>
+  Name: <br>
+  <input></button> <br>
+Date: <br>
+<input value="mm / dd / yyyy"></button> <br>
+Comment: <br>
+<input type="text" style="height:75px; width:350px;"></input> <br><br>
+
+<button type="button" Style=border-radius:0>Submit</button>
